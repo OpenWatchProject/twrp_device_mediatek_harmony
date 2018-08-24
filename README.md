@@ -12,13 +12,14 @@ List of confirmed working devices (Probably more out there):
 * IQ I2
 * Blocks Watch
 * Look Watch
+* AllCall W1
 
 Add to `.repo/local_manifests/harmony.xml`:
 
 ```xml
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
-  <project name="TeamWin/android_device_mediatek_harmony" path="device/mediatek/harmony" remote="github" revision="android-8.0" />
+  <project name="OpenWatchProject/twrp_device_mediatek_harmony" path="device/mediatek/harmony" remote="github" revision="android-8.1" />
 </manifest>
 ```
 
