@@ -3,16 +3,13 @@
 Kingwear makes a reference board that they use in their own products and has sold it to multiple diffrent manufacturers
 
 List of confirmed working devices (Probably more out there):
-* Lemfo LES1
-* Kingwear KW88
-* Kingwear KW98
-* Kingwear KW99
-* Finow X5 Plus
-* Diggro DIO1
-* IQ I2
+* Kingwear KW88, KW98, KW99, KW88 Pro, KW99 Pro
 * Blocks Watch
 * Look Watch
-* AllCall W1
+* Zeblaze Thor, Thor S
+* IQ I2
+* Diggro DI01
+* AllCall W1, W2
 
 Add to `.repo/local_manifests/harmony.xml`:
 
