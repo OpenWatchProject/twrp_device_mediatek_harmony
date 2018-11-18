@@ -3,7 +3,7 @@
 Kingwear makes a reference board that they use in their own products and has sold it to multiple diffrent manufacturers
 
 List of confirmed working devices (Probably more out there):
-* Kingwear KW88, KW98, KW99, KW88 Pro, KW99 Pro
+* Kingwear KW68, KW88, KW88 Pro, KW98, KW99, KW99 Pro
 * Blocks Watch
 * Look Watch
 * Zeblaze Thor, Thor S
